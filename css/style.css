@@ -4,7 +4,7 @@ html{
 
 body{
 
-background: url(/img/img3.jpg) no-repeat;
+background: url(../img/img3.jpg) no-repeat;
 overflow-y: scroll;
 }
 
